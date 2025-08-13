@@ -1,16 +1,27 @@
-## Hi there 👋
+## 🚀 My Learning Journey
 
-<!--
-**Max-Mendes91/max-mendes91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Max! I'm diving into the world of web development and documenting my progress here on GitHub. Here's what I've been working on:
 
-Here are some ideas to get you started:
+### 🧱 Foundations
+- ✅ Built my **first webpage** following [Web Dev Simplified](https://max-mendes91.github.io/FirstWebPage/)
+- ✅ Learned basic HTML & CSS structure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Responsive Design
+- ✅ Completed the **Blog Preview Card** challenge from [Frontend Mentor](https://max-mendes91.github.io/Blog-Preview-card/)
+- ✅ Practiced Flexbox, hover effects, and typography
+
+### 📖 Full Course Projects
+- ✅ Following the Udemy course *Build Responsive Real-World Websites with HTML and CSS*
+- ✅ Built [The Code Magazine](https://max-mendes91.github.io/The-Code-Magazine/) using semantic HTML and responsive layouts
+
+### 🔜 Coming Soon
+- More Frontend Mentor challenges
+- JavaScript fundamentals
+- Personal portfolio site
+
+---
+
+📬 **Let’s connect!**  
+Feel free to check out my projects or reach out if you want to collaborate or share feedback.
+
+
