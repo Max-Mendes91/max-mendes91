@@ -3,8 +3,9 @@
 Hi, I'm Max! I'm diving into the world of web development and documenting my progress here on GitHub. Here's what I've been working on:
 
 ### 🧱 Foundations
-- ✅ Built my **first webpage** following [Band-WEBSITE](https://max-mendes91.github.io/Band-WEBSITE/)
+- ✅ Built my **first webpage** following [Web Dev Simplified](https://max-mendes91.github.io/Band-Website/)
 - ✅ Learned basic HTML & CSS structure
+
 
 ### 🎨 Responsive Design
 - ✅ Completed the **Blog Preview Card** challenge from [Frontend Mentor](https://max-mendes91.github.io/Blog-Preview-card/)
