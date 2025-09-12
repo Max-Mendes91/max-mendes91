@@ -1,6 +1,6 @@
 # Hi, I'm Max👋
 
-Web development learner building projects with **HTML, CSS, and JavaScript**.  
+Web development learner building projects with **HTML, CSS, JavaScript, and Tailwind CSS**.  
 Exploring modern web development, improving daily through hands-on projects, and sharing my journey here on GitHub.
 
 ## Current Focus
