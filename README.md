@@ -1,39 +1,21 @@
-## 🚀 My Learning Journey
+# Hi, I'm Max👋
 
-Hi, I'm Max! I'm diving into the world of web development and documenting my progress here on GitHub. Here's what I've been working on:
+Web development learner building projects with **HTML, CSS, and JavaScript**.  
+Exploring modern web development, improving daily through hands-on projects, and sharing my journey here on GitHub.
 
-### 🧱 Foundations
-- ✅ Built my **first webpage** following [Web Dev Simplified](https://max-mendes91.github.io/Band-Website/)
-- ✅ Learned basic HTML & CSS structure
+## Current Focus
+- Practicing fundamentals with interactive mini-games (e.g., *Guess My Number*)  
+- Strengthening DOM manipulation and styling skills  
+- Building responsive layouts and experimenting with UI/UX improvements  
 
+## Tools & Skills
+- HTML5, CSS3, JavaScript (ES6+)  
+- Git & GitHub  
+- Currently learning advanced JavaScript concepts and web development best practices  
 
-### 🧪 Mini Challenges
-
-These are small but powerful exercises that help me practice specific frontend skills. Each one is based on a real-world design and built using only HTML and CSS.
-
-#### 📦 QR Code Component
-- 🔗 [Live Demo](https://max-mendes91.github.io/QR-Code/)
-- 🧠 Learned:
-  - Semantic HTML structure
-  - Centering with Flexbox
-  - Clean card layout and spacing
-
-### 🎨 Responsive Design
-- ✅ Completed the **Blog Preview Card** challenge from [Frontend Mentor](https://max-mendes91.github.io/Blog-Preview-card/)
-- ✅ Practiced Flexbox, hover effects, and typography
----
-
-### 📖 Full Course Projects
-- ✅ Following the Udemy course *Build Responsive Real-World Websites with HTML and CSS*
-- ✅ Built [The Code Magazine](https://max-mendes91.github.io/The-Code-Magazine/) using semantic HTML and responsive layouts
----
-
-### 🔜 Coming Soon
-- More Frontend Mentor challenges
-- JavaScript fundamentals
-- Personal portfolio site
-
-📬 **Let’s connect!**  
-Feel free to check out my projects or reach out if you want to collaborate or share feedback.
+## Next Steps
+- More polished project deployments (GitHub Pages)  
+- Expanding into frameworks (React.js) in the near future  
+- Sharpening problem-solving and clean coding practices  
 
 
