@@ -1,5 +1,8 @@
 # Hi, I'm Max👋
 
+[![wakatime](https://wakatime.com/badge/user/5f357981-1e66-44ef-ae81-f181857a2d5e.svg)](https://wakatime.com/@5f357981-1e66-44ef-ae81-f181857a2d5e)
+
+
 Web development learner building projects with **HTML, CSS, JavaScript, and Tailwind CSS**.  
 Exploring modern web development, improving daily through hands-on projects, and sharing my journey here on GitHub.
 
