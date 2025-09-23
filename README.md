@@ -3,6 +3,13 @@
 [![wakatime](https://wakatime.com/badge/user/5f357981-1e66-44ef-ae81-f181857a2d5e.svg)](https://wakatime.com/@5f357981-1e66-44ef-ae81-f181857a2d5e)
 ### ⏱ Coding Stats
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   23 hrs 1 min    ██████████████████████▒░░   88.84 %
+HTML         2 hrs 48 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+Markdown     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+```
+
 <!--END_SECTION:waka-->
 
 Web development learner building projects with **HTML, CSS, JavaScript, and Tailwind CSS**.  
