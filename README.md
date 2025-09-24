@@ -5,10 +5,6 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2025 - To: 23 September 2025
-
-Total Time: 28 hrs 43 mins
-
 JavaScript   24 hrs 36 mins  █████████████████████▒░░░   85.64 %
 HTML         3 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
 Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
