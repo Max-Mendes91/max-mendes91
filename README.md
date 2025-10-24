@@ -4,7 +4,6 @@
 ### ⏱ Coding Stats
 <!--START_SECTION:waka-->
 
-
 ```txt
 JavaScript   21 hrs 34 mins  ████████████████████▒░░░░   81.72 %
 HTML         1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
