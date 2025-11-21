@@ -15,12 +15,6 @@ Markdown     33 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 
-## 🚀 Current Focus
-
-- Practicing fundamentals with interactive mini-games (e.g., *Guess My Number*)
-- Strengthening DOM manipulation and styling skills
-- Building responsive layouts and experimenting with UI/UX improvements
-
 ## 🛠️ Tools & Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,7 +29,7 @@ Markdown     33 mins         ▒░░░░░░░░░░░░░░░░
 ## 🎯 Next Steps
 
 - More polished project deployments (GitHub Pages)
-- Expanding into frameworks (React.js) in the near future
+- Expanding into frameworks
 - Sharpening problem-solving and clean coding practices
 
 ## 📫 Connect with Me
