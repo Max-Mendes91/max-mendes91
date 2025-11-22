@@ -28,7 +28,7 @@ Markdown     33 mins         ▒░░░░░░░░░░░░░░░░
 
 ## 🎯 Next Steps
 
-- More polished project deployments (GitHub Pages)
+- More polished project deployments (GitHub Pages/Vercel)
 - Expanding into frameworks
 - Sharpening problem-solving and clean coding practices
 
