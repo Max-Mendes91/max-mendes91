@@ -4,16 +4,6 @@
 
 Web development learner building projects and exploring modern web development. Improving daily through hands-on projects and sharing my journey here on GitHub.
 
-## ⏱ Coding Stats
-
-```txt
-JavaScript   40 hrs 6 mins   ██████████████████████░░░   87.77 %
-HTML         1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-CSS          1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-TypeScript   1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Markdown     33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-```
-
 
 ## 🛠️ Tools & Technologies
 
