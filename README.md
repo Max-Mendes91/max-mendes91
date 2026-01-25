@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/5f357981-1e66-44ef-ae81-f181857a2d5e.svg)](https://wakatime.com/@5f357981-1e66-44ef-ae81-f181857a2d5e)
 
-Developer and AI enthusiast building with React and Next.js. I spend a lot of hours coding, shipping projects, and figuring things out as I go.
+Building with React, Next.js, and AI. Learning by shipping.
 
 ## What I've Built
 
