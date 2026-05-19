@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Max;Full+Stack+Developer;Building+with+React+%26+Next.js;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Max;Frontend+Developer;Building+with+React+%26+Next.js;Always+learning%2C+always+building" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -50,7 +50,7 @@
 
 ## Currently Working On
 
-> ![Cortexus](https://img.shields.io/badge/Cortexus-8B5CF6?style=flat-square&logoColor=white) and ![Reptile Tracker](https://img.shields.io/badge/Reptile%20Tracker-10B981?style=flat-square&logoColor=white) are in active development as a team effort. Not live yet. Stay tuned.
+> ![Cortexus](https://img.shields.io/badge/Cortexus-8B5CF6?style=flat-square&logoColor=white) ![Herply](https://img.shields.io/badge/Herply-10B981?style=flat-square&logoColor=white) ![BestEats](https://img.shields.io/badge/BestEats-F59E0B?style=flat-square&logoColor=white) ![Criarcomia](https://img.shields.io/badge/Criarcomia-EC4899?style=flat-square&logoColor=white) are in active development as a team effort. Not live yet. Stay tuned.
 
 ---
 
