@@ -44,13 +44,33 @@
     <td><img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" /></td>
     <td><img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat-square" /></td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="fennaro-icon.png" width="20" /> Fennaro <img src="https://img.shields.io/badge/Live-%F0%9F%9A%80-brightgreen?style=flat-square" /></h3>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="besteats-icon.png" width="20" /> BestEats <img src="https://img.shields.io/badge/Contributor-%F0%9F%A4%9D-orange?style=flat-square" /></h3>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Mobile app that matches big and working-breed dogs with compatible playmates nearby, by size, energy and temperament. Built solo end to end. Trilingual EN/PL/PT.</td>
+    <td valign="top">Food ranking app for Portugal. One best dish per restaurant, decided by votes, not manipulated stars. I contribute features and AI food illustrations under senior code review.</td>
+  </tr>
+  <tr>
+    <td><a href="https://fennaro.com">Live Site</a></td>
+    <td><a href="https://besteats.pt">Live Site</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000&style=flat-square" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Bun-000?logo=bun&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" /> <img src="https://img.shields.io/badge/TanStack-FF4154?logo=reactquery&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" /></td>
+  </tr>
 </table>
 
 ---
 
 ## Currently Working On
 
-> ![Cortexus](https://img.shields.io/badge/Cortexus-8B5CF6?style=flat-square&logoColor=white) ![Herply](https://img.shields.io/badge/Herply-10B981?style=flat-square&logoColor=white) ![BestEats](https://img.shields.io/badge/BestEats-F59E0B?style=flat-square&logoColor=white) ![Criarcomia](https://img.shields.io/badge/Criarcomia-EC4899?style=flat-square&logoColor=white) are in active development as a team effort. Not live yet. Stay tuned.
+> ![Cortexus](https://img.shields.io/badge/Cortexus-8B5CF6?style=flat-square&logoColor=white) ![Herply](https://img.shields.io/badge/Herply-10B981?style=flat-square&logoColor=white) ![Criarcomia](https://img.shields.io/badge/Criarcomia-EC4899?style=flat-square&logoColor=white) are in active development as a team effort. Not live yet. Stay tuned.
 
 ---
 
